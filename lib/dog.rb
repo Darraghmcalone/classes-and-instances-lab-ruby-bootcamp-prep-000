@@ -1,3 +1,2 @@
-class dog
+Class dog
 end
-
